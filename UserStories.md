@@ -12,3 +12,7 @@
 
 - As a volunteer, I want to be able to view available events and register for them.
 - As a volunteer, I want to be able to add reports about my work and activities.
+
+## Sequence diagram
+![Sequence diagram](https://github.com/consueloramono/demo/raw/master/coursework%20src/sequence%20diagram.png)
+- Source link - https://drive.google.com/file/d/1zJz1RN_8l4Ci3jbvdM1S5hF_F7cvkSlk/view?usp=sharing
