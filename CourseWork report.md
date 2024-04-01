@@ -16,3 +16,7 @@
 ## Sequence diagram
 ![Sequence diagram](https://github.com/consueloramono/demo/raw/master/coursework%20src/sequence%20diagram.png)
 - Source link - https://drive.google.com/file/d/1zJz1RN_8l4Ci3jbvdM1S5hF_F7cvkSlk/view?usp=sharing
+
+## ERD
+![Sequence diagram](https://github.com/consueloramono/demo/raw/master/coursework%20src/ER%20diagram.png)
+- Source link - https://drive.google.com/file/d/1RVDxtZK-GsnJ1ngLR6TMZzizwbnZgOb6/view?usp=sharing
